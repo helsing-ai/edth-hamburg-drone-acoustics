@@ -23,7 +23,7 @@ See "Getting Started" below to begin!
 
 Given that you have trained your model in Phase 1, the next step is to compete against other teams at the hackathon!
 
-Go to [http://172.104.137.51:8080/login](http://172.104.137.51:8080/login) to sign up and get instructions on how to
+Go to [http://139.162.128.229:8080/login](http://139.162.128.229:8080/login) to sign up and get instructions on how to
 compete.
 
 ### Phase 3: Do something awesome!
